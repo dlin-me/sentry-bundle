@@ -1,0 +1,36 @@
+{
+    "name": "dlin/sentry-bundle",
+    "description": "A Syfmony 2 Bundle for Sentry using the \"raven-php\" client",
+    "keywords": ["sentry", "symfony"],
+
+    "license": "MIT",
+
+    "authors": [
+        {
+            "name": "David Lin",
+            "email": "davidforest@gmail.com"
+        }
+    ],
+    "homepage": "http://dlin.me",
+
+    "version": "0.9",
+
+    "minimum-stability": "dev",
+    "target-dir": "Dlin/Bundle/SentryBundle",
+
+    "autoload": {
+        "psr-0": { "Dlin\\Bundle\\SentryBundle": "" }
+    },
+
+    "require": {
+        "php": ">=5.3.8",
+        "raven/raven": "0.7.1"
+    },
+
+    "require-dev": {
+        "symfony/framework-bundle": ">=2.0",
+        "symfony/finder": "2.3.*"
+    }
+
+
+}
