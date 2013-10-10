@@ -5,17 +5,23 @@
     <ignored path="Sentry.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381366897477" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../dominance/.idea/workspace.xml" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381369659324" ignored="false" />
-    <file path="/composer.json" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381367037366" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../dominance/.idea/workspace.xml" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373463263" ignored="false" />
+    <file path="/composer.json" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381369907903" ignored="false" />
     <file path="/Configuration.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381367118810" ignored="false" />
     <file path="/SentryService.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381368348533" ignored="false" />
     <file path="/DlinSentryBundle.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381368581163" ignored="false" />
-    <file path="/a.dummy" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381367422899" ignored="false" />
+    <file path="/a.dummy" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381370594431" ignored="false" />
     <file path="/services.xml" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381367771858" ignored="false" />
     <file path="/DlinSentryExtension.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381368511357" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../dominance/web/app_dev.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381368660984" ignored="false" />
-    <file path="/app_dev.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381368657878" ignored="false" />
-    <file path="/README.md" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381369655308" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../dominance/web/app_dev.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373341935" ignored="false" />
+    <file path="/app_dev.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373339390" ignored="false" />
+    <file path="/README.md" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373460160" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../dominance/composer.json" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381369907903" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../dominance/app/config/config.yml" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381370837538" ignored="false" />
+    <file path="/config.yml" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381370341409" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../dominance/app/AppKernel.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381370808888" ignored="false" />
+    <file path="/AppKernel.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381370808537" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../dominance/app/cache/dev/appDevDebugProjectContainer.xml" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381370852798" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +91,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="5" selection-start="919" selection-end="1070" vertical-scroll-proportion="0.33865815">
+            <state line="91" column="20" selection-start="1661" selection-end="1661" vertical-scroll-proportion="0.74760383">
               <folding />
             </state>
           </provider>
@@ -425,7 +431,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="5" selection-start="919" selection-end="1070" vertical-scroll-proportion="0.33865815">
+        <state line="91" column="20" selection-start="1661" selection-end="1661" vertical-scroll-proportion="0.74760383">
           <folding />
         </state>
       </provider>

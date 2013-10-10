@@ -9,12 +9,12 @@ This Sentry Bundle provides a configurable service to work with Sentry
 
 
 Version
--
+--------------
 
 0.9
 
 
-***
+
 Installation
 --------------
 
@@ -88,6 +88,8 @@ Reporting errors to Sentry automatically.
     #web/app.php
     ...
     $kernel->loadClassCache();
+
+    $kernel->boot();
     $kernel->getContainer()->get('dlin.sentry_service')->register();
     ...
 
