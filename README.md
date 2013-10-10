@@ -52,8 +52,7 @@ The DSN url must be provided in the config.xml file. For example:
     #app/config/config.yml
 
     dlin_sentry:
-        sentry_service:
-            dsn: https://xxxxxxxxxxce4168aaafe6f658375edf:xxxxxxxxxxd44828a5ba7b78d807f5d@app.getsentry.com/123456
+        dsn: https://xxxxxxxxxxce4168aaafe6f658375edf:xxxxxxxxxxd44828a5ba7b78d807f5d@app.getsentry.com/123456
 
 
 

@@ -5,7 +5,7 @@
     <ignored path="Sentry.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381366897477" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../dominance/.idea/workspace.xml" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373463263" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../dominance/.idea/workspace.xml" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373512613" ignored="false" />
     <file path="/composer.json" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381369907903" ignored="false" />
     <file path="/Configuration.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381367118810" ignored="false" />
     <file path="/SentryService.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381368348533" ignored="false" />
@@ -91,7 +91,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="20" selection-start="1661" selection-end="1661" vertical-scroll-proportion="0.74760383">
+            <state line="54" column="8" selection-start="790" selection-end="790" vertical-scroll-proportion="0.4025559">
               <folding />
             </state>
           </provider>
@@ -431,7 +431,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="20" selection-start="1661" selection-end="1661" vertical-scroll-proportion="0.74760383">
+        <state line="54" column="8" selection-start="790" selection-end="790" vertical-scroll-proportion="0.4025559">
           <folding />
         </state>
       </provider>
