@@ -27,8 +27,8 @@ class DlinSentryExtension extends Extension {
 
 
         $container->setParameter(
-            'dlin.pdf_service.dsn',
-            isset($config['pdf_service']['dsn'])?$config['pdf_service']['dsn']:''
+            'dlin.sentry_service.dsn',
+            isset($config['dsn'])?$config['dsn']:''
         );
     }
 }

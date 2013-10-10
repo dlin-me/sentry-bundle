@@ -5,23 +5,27 @@
     <ignored path="Sentry.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381366897477" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../dominance/.idea/workspace.xml" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373512613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../dominance/.idea/workspace.xml" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373974187" ignored="false" />
     <file path="/composer.json" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381369907903" ignored="false" />
     <file path="/Configuration.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381367118810" ignored="false" />
-    <file path="/SentryService.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381368348533" ignored="false" />
+    <file path="/SentryService.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373836094" ignored="false" />
     <file path="/DlinSentryBundle.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381368581163" ignored="false" />
-    <file path="/a.dummy" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381370594431" ignored="false" />
+    <file path="/a.dummy" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373960927" ignored="false" />
     <file path="/services.xml" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381367771858" ignored="false" />
-    <file path="/DlinSentryExtension.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381368511357" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../dominance/web/app_dev.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373341935" ignored="false" />
-    <file path="/app_dev.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373339390" ignored="false" />
+    <file path="/DlinSentryExtension.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373889056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../dominance/web/app_dev.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373752596" ignored="false" />
+    <file path="/app_dev.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373741863" ignored="false" />
     <file path="/README.md" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373460160" ignored="false" />
     <file path="$PROJECT_DIR$/../../../dominance/composer.json" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381369907903" ignored="false" />
     <file path="$PROJECT_DIR$/../../../dominance/app/config/config.yml" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381370837538" ignored="false" />
     <file path="/config.yml" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381370341409" ignored="false" />
     <file path="$PROJECT_DIR$/../../../dominance/app/AppKernel.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381370808888" ignored="false" />
     <file path="/AppKernel.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381370808537" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../dominance/app/cache/dev/appDevDebugProjectContainer.xml" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381370852798" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../dominance/app/cache/dev/appDevDebugProjectContainer.xml" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373903649" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../dominance/src/E1/Bundle/AppBundle/Controller/PreferenceController.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373693189" ignored="false" />
+    <file path="/PreferenceController.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373693189" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../dominance/vendor/dlin/sentry-bundle/Dlin/Bundle/SentryBundle/Service/SentryService.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373850491" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../dominance/vendor/dlin/sentry-bundle/Dlin/Bundle/SentryBundle/DependencyInjection/DlinSentryExtension.php" changelist="b0950572-2317-42cb-a50f-59dcbac193a2" time="1381373892127" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,19 +45,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DlinSentryExtension.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="DlinSentryExtension.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DependencyInjection/DlinSentryExtension.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="881" selection-end="881" vertical-scroll-proportion="-18.0">
+            <state line="29" column="24" selection-start="940" selection-end="940" vertical-scroll-proportion="0.65006226">
               <folding>
                 <element signature="e#65#124#0" expanded="true" />
               </folding>
@@ -88,10 +83,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="8" selection-start="790" selection-end="790" vertical-scroll-proportion="0.4025559">
+            <state line="54" column="8" selection-start="790" selection-end="790" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -127,10 +122,19 @@
       <file leaf-file-name="Configuration.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DependencyInjection/Configuration.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="20" selection-start="847" selection-end="847" vertical-scroll-proportion="-19.333334">
+            <state line="23" column="0" selection-start="662" selection-end="662" vertical-scroll-proportion="-15.333333">
               <folding>
                 <element signature="e#64#124#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="File.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/File.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="68" selection-start="2133" selection-end="2133" vertical-scroll-proportion="-44.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -147,12 +151,12 @@
       <list>
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/Resources/doc/services.xml" />
-        <option value="$PROJECT_DIR$/DependencyInjection/Configuration.php" />
         <option value="$PROJECT_DIR$/Resources/config/services.xml" />
         <option value="$PROJECT_DIR$/Service/SentryService.php" />
-        <option value="$PROJECT_DIR$/DependencyInjection/DlinSentryExtension.php" />
         <option value="$PROJECT_DIR$/DlinSentryBundle.php" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/DependencyInjection/DlinSentryExtension.php" />
+        <option value="$PROJECT_DIR$/DependencyInjection/Configuration.php" />
       </list>
     </option>
   </component>
@@ -208,6 +212,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sentry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SentryBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DependencyInjection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -245,14 +263,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="179" y="22" width="2540" height="1400" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296875" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25180432" sideWeight="0.6703125" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25180432" sideWeight="0.6703125" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -390,24 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DependencyInjection/Configuration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="20" selection-start="847" selection-end="847" vertical-scroll-proportion="-19.333334">
-          <folding>
-            <element signature="e#64#124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DependencyInjection/DlinSentryExtension.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="881" selection-end="881" vertical-scroll-proportion="-18.0">
-          <folding>
-            <element signature="e#65#124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/config/services.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="17" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0">
@@ -431,8 +431,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="8" selection-start="790" selection-end="790" vertical-scroll-proportion="0.4025559">
+        <state line="54" column="8" selection-start="790" selection-end="790" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DependencyInjection/Configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="662" selection-end="662" vertical-scroll-proportion="-15.333333">
+          <folding>
+            <element signature="e#64#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/File/File.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="68" selection-start="2133" selection-end="2133" vertical-scroll-proportion="-44.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DependencyInjection/DlinSentryExtension.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="24" selection-start="940" selection-end="940" vertical-scroll-proportion="0.65006226">
+          <folding>
+            <element signature="e#65#124#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -21,7 +21,7 @@ class Configuration implements ConfigurationInterface
 
         $rootNode = $treeBuilder->root('dlin_sentry');
 
-        // This is for wkhtmltopdf configuration
+
         $rootNode
                 ->children()
                 ->scalarNode('dsn')->end()
